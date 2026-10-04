@@ -1,0 +1,16 @@
+{
+  "name": "Yellow Car \u2014 Stuart & Sabine",
+  "short_name": "Yellow Car",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffd400",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
